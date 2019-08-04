@@ -1,3 +1,3 @@
 # About
 
-This repo is just personnal wordlist that I created from my bug hunting.
+This repo is just a personnal wordlist that I created during my different bug hunting.
